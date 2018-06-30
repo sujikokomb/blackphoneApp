@@ -54,7 +54,6 @@
 		FD7C381920D5537000676C54 /* BlackPhoneApp */ = {
 			isa = PBXGroup;
 			children = (
-				FD7C382C20D7CD7A00676C54 /* Models */,
 				FD7C381A20D5537000676C54 /* AppDelegate.swift */,
 				FD7C381C20D5537000676C54 /* ViewController.swift */,
 				FD7C381E20D5537000676C54 /* Main.storyboard */,
@@ -63,13 +62,6 @@
 				FD7C382620D5537000676C54 /* Info.plist */,
 			);
 			path = BlackPhoneApp;
-			sourceTree = "<group>";
-		};
-		FD7C382C20D7CD7A00676C54 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
